@@ -3,6 +3,7 @@
 Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoción 2018 - 2020.
 
 * [Aguilar García, Rubén](https://github.com/rubenaguilar98)
+* [Almagro Rojas , Sergio](https://github.com/sergioalmagrorojas)
 * [Benítez Ramírez, Fabio](https://github.com/Fabiobr27)
 * [Campaña Luque, Daniel](https://github.com/danielcampaluque)
 * [Castejón Martínez, Anabel](https://github.com/ancastm)
@@ -15,14 +16,12 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoc
 * [Jiménez Campó, Sheila](https://github.com/sheilajimenez)
 * [Lerible García, Nicolás](https://github.com/nicolaslerible)
 * [López García, Álvaro](https://github.com/alvarolopezgarcia1)
-* [Montes Expósito, Rafael](https://github.com/rafaelmontes8)
 * [Moyano Montes, Lorena](https://github.com/lorenamoyano)
 * [Pastushenko, Román](https://github.com/romanpastu)
 * [Perea Ropero, Mercedes](https://github.com/mmercedesperea)
 * [Pérez Ortiz, Julián](https://github.com/JulianPerezOrtiz)
 * [pérez pardo,david](https://github.com/davidperezpardo)
 * [Ramirez Escribano, Alvaro](https://github.com/AlvaroDaw)
-* [Romero Medina, Francisco José](https://github.com/fromero98)
 * [Rosas Ortega, Jonathan](https://github.com/jonathanrosasortega)
 * [Solís La Beira, Miguel](https://github.com/miguelsolislabeira)
 * [Valverde Garcia, Samuel](https://github.com/samuelvalverde28)
