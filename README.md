@@ -18,7 +18,7 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoc
 * [Lerible García, Nicolás](https://github.com/nicolaslerible)
 * [Lobo Marrozos, Cristian](https://github.com/cristianlobomarrozos)
 * [López García, Álvaro](https://github.com/alvarolopezgarcia1)
-* [Molina Maqueda, Javier]_(https://github.com/javiermolinamaqueda
+* [Molina Maqueda, Javier](https://github.com/javiermolinamaqueda)
 * [Moyano Montes, Lorena](https://github.com/lorenamoyano)
 * [Pastushenko, Román](https://github.com/romanpastu)
 * [Perea Ropero, Mercedes](https://github.com/mmercedesperea)
