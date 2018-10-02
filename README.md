@@ -15,6 +15,7 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoc
 * [Herrera Fonseca, Antonio](https://github.com/aherreracode)
 * [Jiménez Campó, Sheila](https://github.com/sheilajimenez)
 * [Lerible García, Nicolás](https://github.com/nicolaslerible)
+* [Lobo Marrozos, Cristian](https://github.com/cristianlobomarrozos)
 * [López García, Álvaro](https://github.com/alvarolopezgarcia1)
 * [Moyano Montes, Lorena](https://github.com/lorenamoyano)
 * [Pastushenko, Román](https://github.com/romanpastu)
