@@ -18,6 +18,7 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoc
 * [Lerible García, Nicolás](https://github.com/nicolaslerible)
 * [Lobo Marrozos, Cristian](https://github.com/cristianlobomarrozos)
 * [López García, Álvaro](https://github.com/alvarolopezgarcia1)
+* [Montes Expósito, Rafael](https://github.com/rafaelmontes8)
 * [Molina Maqueda, Javier](https://github.com/javiermolinamaqueda)
 * [Morales Conejo, Alejandro](https://github.com/alejandromoralesconejo)
 * [Moyano Montes, Lorena](https://github.com/lorenamoyano)
