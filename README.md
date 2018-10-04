@@ -27,6 +27,7 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoc
 * [Pérez Ortiz, Julián](https://github.com/JulianPerezOrtiz)
 * [pérez pardo,david](https://github.com/davidperezpardo)
 * [Ramirez Escribano, Alvaro](https://github.com/AlvaroDaw)
+* [Romero Medina, Francisco José](https://github.com/fromero98)
 * [Rosas Ortega, Jonathan](https://github.com/jonathanrosasortega)
 * [Solís La Beira, Miguel](https://github.com/miguelsolislabeira)
 * [Valverde Garcia, Samuel](https://github.com/samuelvalverde28)
