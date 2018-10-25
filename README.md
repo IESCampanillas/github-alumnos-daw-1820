@@ -11,7 +11,7 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoc
 * [Domínguez Barrientos, Rosa María](https://github.com/rosadominguez)
 * [Fernández López, Paula](https://github.com/PaulaFdez)
 * [Getman, Mykola](https://github.com/mykolagetman)
-* [Gómez Parra, David](https://github.com)
+* [Gómez Parra, David] (pdte)
 * [Gómez Peña, Alberto](https://github.com/albertogomezp)
 * [Gozalbes Mendoza, Carlos](https://github.com/carlosgozme)
 * [Herrera Fonseca, Antonio](https://github.com/aherreracode)
